@@ -138,3 +138,16 @@ To execute these analyses, navigate to the `linguistic_analysis` folder and run 
 python pos_tagging.py
 python comma_feature_analysis.py
 ```
+
+## 🖊 Citation
+```text
+@misc{park2025detectingllmgeneratedkoreantext,
+      title={Detecting LLM-Generated Korean Text through Linguistic Feature Analysis}, 
+      author={Shinwoo Park and Shubin Kim and Do-Kyung Kim and Yo-Sub Han},
+      year={2025},
+      eprint={2503.00032},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.00032}, 
+}
+```
